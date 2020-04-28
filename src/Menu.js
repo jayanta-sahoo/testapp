@@ -1,7 +1,7 @@
 import {React} from 'react';
 import {ReactDOM} from 'react-dom';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-
+//Check for Nav Links
 <Navbar bg="light" expand="lg">
   <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
